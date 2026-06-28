@@ -1,3 +1,4 @@
 <Solution>
-  <Project Path="frogchess.csproj" />
+  <Project Path="FrogChess.Server/FrogChess.Server.csproj" />
+  <Project Path="FrogChess.Tests/FrogChess.Tests.csproj" />
 </Solution>
