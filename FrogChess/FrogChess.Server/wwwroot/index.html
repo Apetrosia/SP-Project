@@ -228,7 +228,6 @@
             <!-- Header -->
             <div class="text-center mb-12">
                 <div class="flex items-center justify-center space-x-3 mb-4">
-                    <img src="/green-toad-logo.svg" alt="Logo" class="h-16 w-16" />
                     <span class="text-4xl font-bold text-swamp-900">Greenswamp</span>
                 </div>
                 <p class="text-lg text-swamp-800">Frog Chess — Jump to Victory!</p>
@@ -399,7 +398,8 @@
                     if (boardX < 0 || boardY < 0 || boardX >= BOARD_PX || boardY >= BOARD_PX) return;
                     const col = Math.floor(boardX / CELL);
                     const row = Math.floor(boardY / CELL);
-                    window.frogGame.handleCellClick(row, col);
+                    window.frogGame.handleCell
+                    (row, col);
                 });
             }
         }

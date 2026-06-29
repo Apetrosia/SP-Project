@@ -288,11 +288,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Server\\FrogChess.Server.csproj",
+      "projectUniqueName": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\SP-Project\\FrogChess\\FrogChess.Server\\FrogChess.Server.csproj",
       "projectName": "FrogChess.Server",
-      "projectPath": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Server\\FrogChess.Server.csproj",
+      "projectPath": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\SP-Project\\FrogChess\\FrogChess.Server\\FrogChess.Server.csproj",
       "packagesPath": "C:\\Users\\APETROSIA_PC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Server\\obj\\",
+      "outputPath": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\SP-Project\\FrogChess\\FrogChess.Server\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FrogChess.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87de4512a5157dab77693ac6acaf80fe4a6de6c7")]
 [assembly: System.Reflection.AssemblyProductAttribute("FrogChess.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FrogChess.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

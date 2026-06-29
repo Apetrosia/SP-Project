@@ -40,17 +40,6 @@
         if (passBtn) passBtn.style.display = 'none';
     }
 
-    function showMessage(text, isError = false) {
-        if (!messageArea) return;
-        messageArea.textContent = text;
-        messageArea.style.opacity = '1';
-        messageArea.style.color = isError ? '#b91c1c' : '#065f46';
-        clearTimeout(messageArea._hideTimer);
-        messageArea._hideTimer = setTimeout(() => {
-            messageArea.style.opacity = '0';
-        }, 5000);
-    }
-
     function updateStatus(turnText, players, msg) {
         if (!turnEl || !playersEl || !msgEl) return;
         turnEl.textContent = turnText;
@@ -133,7 +122,6 @@
             return;
         }
         clearSelection();
-        showMessage("Move preview cancelled.");
     }
 
     function selectFrog(row, col) {
@@ -236,13 +224,8 @@
 
     connection.on("BoardState", (state) => applyBoardState(state));
 
-    connection.on("MoveExecuted", (path, jumped, removedBySwamp) => {
-        if (removedBySwamp) showMessage("Frog lost in the swamp!");
-    });
-
     connection.on("FrogRemoved", (row, col, removingColor) => {
         if (removingColor === myColor) {
-            showMessage("Frog removed");
             canRemove = false;
             if (removeBtn) removeBtn.style.display = 'none';
         }
@@ -254,7 +237,6 @@
     });
 
     connection.on("Error", (msg) => {
-        showMessage(msg, true);
         clearSelection();
     });
 
@@ -278,7 +260,6 @@
 
     connection.on("PlayerReconnected", (color) => {
         stopDisconnectCountdown();
-        showMessage("Opponent reconnected");
     });
 
     connection.on("Reconnected", (state) => {
@@ -308,7 +289,6 @@
                 await connection.invoke("CreateGame", name);
             }
         } catch (err) {
-            showMessage(err.message || "Connection failed", true);
         }
     }
 
@@ -320,14 +300,12 @@
     function handleCellClick(row, col) {
         if (!gameActive || gameOver) return;
         if (currentTurn !== myColor) {
-            showMessage("Not your turn", true);
             return;
         }
 
         if (removeMode) {
             const cell = boardCells.find(c => c.row === row && c.col === col);
             if (!cell || (cell.color !== 'green' && cell.color !== 'red')) {
-                showMessage("Tap a frog to remove", true);
                 return;
             }
             connection.invoke("RemoveFrog", row, col);
@@ -364,12 +342,10 @@
                 highlightDestinations(further);
                 if (finishBtn) finishBtn.style.display = 'inline-block';
                 if (cancelBtn) cancelBtn.style.display = 'inline-block';
-                showMessage("Click another destination or Finish Move.");
             } else {
                 if (currentlyInSwamp) {
                     if (finishBtn) finishBtn.style.display = 'inline-block';
                     if (cancelBtn) cancelBtn.style.display = 'inline-block';
-                    showMessage("Frog will be lost! Click Finish Move to confirm.", true);
                     window.highlightCells([{ r: row, c: col, isSwamp: true }]);
                 } else {
                     connection.invoke("MakeMove", selectedPath);
@@ -383,7 +359,6 @@
 
     function finishMove() {
         if (selectedPath.length < 2) {
-            showMessage("At least one jump required", true);
             return;
         }
         connection.invoke("MakeMove", selectedPath);
