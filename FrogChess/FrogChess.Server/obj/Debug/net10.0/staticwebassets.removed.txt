@@ -1,2 +1,2 @@
-C:\Users\APETROSIA_PC\Desktop\progr\SP\SP-Project\frogchess\FrogChess.Server\wwwroot\favicon.ico
-C:\Users\APETROSIA_PC\Desktop\progr\SP\SP-Project\frogchess\FrogChess.Server\wwwroot\green-toad-logo.svg
+C:\Users\APETROSIA_PC\Desktop\progr\SP\FrogChess\FrogChess.Server\wwwroot\favicon.ico
+C:\Users\APETROSIA_PC\Desktop\progr\SP\FrogChess\FrogChess.Server\wwwroot\green-toad-logo.svg

@@ -398,8 +398,7 @@
                     if (boardX < 0 || boardY < 0 || boardX >= BOARD_PX || boardY >= BOARD_PX) return;
                     const col = Math.floor(boardX / CELL);
                     const row = Math.floor(boardY / CELL);
-                    window.frogGame.handleCell
-                    (row, col);
+                    window.frogGame.handleCellClick(row, col);
                 });
             }
         }

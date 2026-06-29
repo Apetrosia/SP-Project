@@ -194,7 +194,7 @@
         applyBoardState(state);
         const colorStr = (myColor === 'green') ? 'green' : 'red';
         const oppDisplay = `${opponentName}(${colorStr === 'green' ? 'red' : 'green'})`;
-        updateStatus("🎲 GAME STARTED",
+        updateStatus("GAME STARTED",
             [{ name: myPlayerName, active: false }, { name: oppDisplay, active: false }],
             "First turn coming...");
         gameOver = false;
@@ -211,7 +211,7 @@
         const myTurn = (currentTurn === myColor);
         const colorStr = myColor === 'green' ? 'green' : 'red';
         const oppDisplay = `${opponentName}(${colorStr === 'green' ? 'red' : 'green'})`;
-        updateStatus(myTurn ? "YOUR TURN" : "THEIR TURN",
+        updateStatus(myTurn ? "Your turn" : "Their turn",
             [{ name: myPlayerName, active: myTurn }, { name: oppDisplay, active: !myTurn }],
             message);
         clearSelection();
@@ -223,6 +223,9 @@
     });
 
     connection.on("BoardState", (state) => applyBoardState(state));
+
+    connection.on("MoveExecuted", (path, jumped, removedBySwamp) => {
+    });
 
     connection.on("FrogRemoved", (row, col, removingColor) => {
         if (removingColor === myColor) {
@@ -245,7 +248,7 @@
         gameActive = false;
         localStorage.removeItem('frogchess_gameId');
         localStorage.removeItem('frogchess_playerName');
-        updateStatus("GAME OVER", [],
+        updateStatus("Game over", [],
             winner ? winner.charAt(0).toUpperCase() + winner.slice(1) + " wins!" : "Draw");
         if (removeBtn) removeBtn.style.display = 'none';
         if (finishBtn) finishBtn.style.display = 'none';

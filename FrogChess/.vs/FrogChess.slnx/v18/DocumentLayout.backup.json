@@ -1,30 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\SP-Project\\FrogChess\\",
+  "WorkspaceRootPath": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5BF5B0E-A720-89A2-CEB3-49F09C7E514C}|FrogChess.Server\\FrogChess.Server.csproj|c:\\users\\apetrosia_pc\\desktop\\progr\\sp\\sp-project\\frogchess\\frogchess.server\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A5BF5B0E-A720-89A2-CEB3-49F09C7E514C}|FrogChess.Server\\FrogChess.Server.csproj|solutionrelative:frogchess.server\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5BF5B0E-A720-89A2-CEB3-49F09C7E514C}|FrogChess.Server\\FrogChess.Server.csproj|c:\\users\\apetrosia_pc\\desktop\\progr\\sp\\sp-project\\frogchess\\frogchess.server\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A5BF5B0E-A720-89A2-CEB3-49F09C7E514C}|FrogChess.Server\\FrogChess.Server.csproj|solutionrelative:frogchess.server\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5BF5B0E-A720-89A2-CEB3-49F09C7E514C}|FrogChess.Server\\FrogChess.Server.csproj|c:\\users\\apetrosia_pc\\desktop\\progr\\sp\\sp-project\\frogchess\\frogchess.server\\wwwroot\\froglogic.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{A5BF5B0E-A720-89A2-CEB3-49F09C7E514C}|FrogChess.Server\\FrogChess.Server.csproj|c:\\users\\apetrosia_pc\\desktop\\progr\\sp\\frogchess\\frogchess.server\\wwwroot\\froglogic.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A5BF5B0E-A720-89A2-CEB3-49F09C7E514C}|FrogChess.Server\\FrogChess.Server.csproj|solutionrelative:frogchess.server\\wwwroot\\froglogic.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5BF5B0E-A720-89A2-CEB3-49F09C7E514C}|FrogChess.Server\\FrogChess.Server.csproj|c:\\users\\apetrosia_pc\\desktop\\progr\\sp\\sp-project\\frogchess\\frogchess.server\\services\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5BF5B0E-A720-89A2-CEB3-49F09C7E514C}|FrogChess.Server\\FrogChess.Server.csproj|c:\\users\\apetrosia_pc\\desktop\\progr\\sp\\frogchess\\frogchess.server\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A5BF5B0E-A720-89A2-CEB3-49F09C7E514C}|FrogChess.Server\\FrogChess.Server.csproj|solutionrelative:frogchess.server\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5BF5B0E-A720-89A2-CEB3-49F09C7E514C}|FrogChess.Server\\FrogChess.Server.csproj|c:\\users\\apetrosia_pc\\desktop\\progr\\sp\\frogchess\\frogchess.server\\services\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5BF5B0E-A720-89A2-CEB3-49F09C7E514C}|FrogChess.Server\\FrogChess.Server.csproj|solutionrelative:frogchess.server\\services\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5BF5B0E-A720-89A2-CEB3-49F09C7E514C}|FrogChess.Server\\FrogChess.Server.csproj|c:\\users\\apetrosia_pc\\desktop\\progr\\sp\\sp-project\\frogchess\\frogchess.server\\hubs\\gamehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A5BF5B0E-A720-89A2-CEB3-49F09C7E514C}|FrogChess.Server\\FrogChess.Server.csproj|c:\\users\\apetrosia_pc\\desktop\\progr\\sp\\frogchess\\frogchess.server\\hubs\\gamehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A5BF5B0E-A720-89A2-CEB3-49F09C7E514C}|FrogChess.Server\\FrogChess.Server.csproj|solutionrelative:frogchess.server\\hubs\\gamehub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A5BF5B0E-A720-89A2-CEB3-49F09C7E514C}|FrogChess.Server\\FrogChess.Server.csproj|c:\\users\\apetrosia_pc\\desktop\\progr\\sp\\sp-project\\frogchess\\frogchess.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5BF5B0E-A720-89A2-CEB3-49F09C7E514C}|FrogChess.Server\\FrogChess.Server.csproj|solutionrelative:frogchess.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7BF4FAF-BCFA-7660-74F4-4DA0893630FB}|FrogChess.Tests\\FrogChess.Tests.csproj|c:\\users\\apetrosia_pc\\desktop\\progr\\sp\\frogchess\\frogchess.tests\\firstmoveremovaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BF4FAF-BCFA-7660-74F4-4DA0893630FB}|FrogChess.Tests\\FrogChess.Tests.csproj|solutionrelative:frogchess.tests\\firstmoveremovaltests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BF4FAF-BCFA-7660-74F4-4DA0893630FB}|FrogChess.Tests\\FrogChess.Tests.csproj|c:\\users\\apetrosia_pc\\desktop\\progr\\sp\\frogchess\\frogchess.tests\\turnandwinconditiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BF4FAF-BCFA-7660-74F4-4DA0893630FB}|FrogChess.Tests\\FrogChess.Tests.csproj|solutionrelative:frogchess.tests\\turnandwinconditiontests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BF4FAF-BCFA-7660-74F4-4DA0893630FB}|FrogChess.Tests\\FrogChess.Tests.csproj|c:\\users\\apetrosia_pc\\desktop\\progr\\sp\\frogchess\\frogchess.tests\\boardgenerationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BF4FAF-BCFA-7660-74F4-4DA0893630FB}|FrogChess.Tests\\FrogChess.Tests.csproj|solutionrelative:frogchess.tests\\boardgenerationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7BF4FAF-BCFA-7660-74F4-4DA0893630FB}|FrogChess.Tests\\FrogChess.Tests.csproj|c:\\users\\apetrosia_pc\\desktop\\progr\\sp\\frogchess\\frogchess.tests\\concurrencytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7BF4FAF-BCFA-7660-74F4-4DA0893630FB}|FrogChess.Tests\\FrogChess.Tests.csproj|solutionrelative:frogchess.tests\\concurrencytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5BF5B0E-A720-89A2-CEB3-49F09C7E514C}|FrogChess.Server\\FrogChess.Server.csproj|c:\\users\\apetrosia_pc\\desktop\\progr\\sp\\frogchess\\frogchess.server\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5BF5B0E-A720-89A2-CEB3-49F09C7E514C}|FrogChess.Server\\FrogChess.Server.csproj|solutionrelative:frogchess.server\\models\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5BF5B0E-A720-89A2-CEB3-49F09C7E514C}|FrogChess.Server\\FrogChess.Server.csproj|c:\\users\\apetrosia_pc\\desktop\\progr\\sp\\frogchess\\frogchess.server\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A5BF5B0E-A720-89A2-CEB3-49F09C7E514C}|FrogChess.Server\\FrogChess.Server.csproj|solutionrelative:frogchess.server\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5BF5B0E-A720-89A2-CEB3-49F09C7E514C}|FrogChess.Server\\FrogChess.Server.csproj|c:\\users\\apetrosia_pc\\desktop\\progr\\sp\\frogchess\\frogchess.server\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A5BF5B0E-A720-89A2-CEB3-49F09C7E514C}|FrogChess.Server\\FrogChess.Server.csproj|solutionrelative:frogchess.server\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 79,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,80 +62,136 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "jquery.validate.js",
-              "DocumentMoniker": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\SP-Project\\FrogChess\\FrogChess.Server\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-              "RelativeDocumentMoniker": "FrogChess.Server\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-              "ToolTip": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\SP-Project\\FrogChess\\FrogChess.Server\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-              "RelativeToolTip": "FrogChess.Server\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
-              "ViewState": "AgIAAFgBAACAmZmZmdkhwIIBAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-06-29T07:23:24.417Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\SP-Project\\FrogChess\\FrogChess.Server\\Services\\GameManager.cs",
-              "RelativeDocumentMoniker": "FrogChess.Server\\Services\\GameManager.cs",
-              "ToolTip": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\SP-Project\\FrogChess\\FrogChess.Server\\Services\\GameManager.cs",
-              "RelativeToolTip": "FrogChess.Server\\Services\\GameManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABHAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "TurnAndWinConditionTests.cs",
+              "DocumentMoniker": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Tests\\TurnAndWinConditionTests.cs",
+              "RelativeDocumentMoniker": "FrogChess.Tests\\TurnAndWinConditionTests.cs",
+              "ToolTip": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Tests\\TurnAndWinConditionTests.cs",
+              "RelativeToolTip": "FrogChess.Tests\\TurnAndWinConditionTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T22:35:32.891Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T23:38:32.752Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "GameHub.cs",
-              "DocumentMoniker": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\SP-Project\\FrogChess\\FrogChess.Server\\Hubs\\GameHub.cs",
-              "RelativeDocumentMoniker": "FrogChess.Server\\Hubs\\GameHub.cs",
-              "ToolTip": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\SP-Project\\FrogChess\\FrogChess.Server\\Hubs\\GameHub.cs",
-              "RelativeToolTip": "FrogChess.Server\\Hubs\\GameHub.cs",
-              "ViewState": "AgIAABUAAADgV2ZmZmbuvycAAAAnAAAAAAAAAA==",
+              "Title": "FirstMoveRemovalTests.cs",
+              "DocumentMoniker": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Tests\\FirstMoveRemovalTests.cs",
+              "RelativeDocumentMoniker": "FrogChess.Tests\\FirstMoveRemovalTests.cs",
+              "ToolTip": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Tests\\FirstMoveRemovalTests.cs",
+              "RelativeToolTip": "FrogChess.Tests\\FirstMoveRemovalTests.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAwEoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T22:25:56.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T23:36:12.542Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\SP-Project\\FrogChess\\FrogChess.Server\\Program.cs",
-              "RelativeDocumentMoniker": "FrogChess.Server\\Program.cs",
-              "ToolTip": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\SP-Project\\FrogChess\\FrogChess.Server\\Program.cs",
-              "RelativeToolTip": "FrogChess.Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAYAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "BoardGenerationTests.cs",
+              "DocumentMoniker": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Tests\\BoardGenerationTests.cs",
+              "RelativeDocumentMoniker": "FrogChess.Tests\\BoardGenerationTests.cs",
+              "ToolTip": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Tests\\BoardGenerationTests.cs",
+              "RelativeToolTip": "FrogChess.Tests\\BoardGenerationTests.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-06-28T23:54:57.637Z"
+              "WhenOpened": "2026-06-28T23:34:04.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ConcurrencyTests.cs",
+              "DocumentMoniker": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Tests\\ConcurrencyTests.cs",
+              "RelativeDocumentMoniker": "FrogChess.Tests\\ConcurrencyTests.cs",
+              "ToolTip": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Tests\\ConcurrencyTests.cs",
+              "RelativeToolTip": "FrogChess.Tests\\ConcurrencyTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T23:31:19.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Server\\Models\\Game.cs",
+              "RelativeDocumentMoniker": "FrogChess.Server\\Models\\Game.cs",
+              "ToolTip": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Server\\Models\\Game.cs",
+              "RelativeToolTip": "FrogChess.Server\\Models\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T22:37:55.721Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Server\\Services\\GameManager.cs",
+              "RelativeDocumentMoniker": "FrogChess.Server\\Services\\GameManager.cs",
+              "ToolTip": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Server\\Services\\GameManager.cs",
+              "RelativeToolTip": "FrogChess.Server\\Services\\GameManager.cs",
+              "ViewState": "AgIAAEsAAAAAmJmZmZkrwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T22:35:32.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameHub.cs",
+              "DocumentMoniker": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Server\\Hubs\\GameHub.cs",
+              "RelativeDocumentMoniker": "FrogChess.Server\\Hubs\\GameHub.cs",
+              "ToolTip": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Server\\Hubs\\GameHub.cs",
+              "RelativeToolTip": "FrogChess.Server\\Hubs\\GameHub.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-28T22:25:56.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "froglogic.js",
-              "DocumentMoniker": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\SP-Project\\FrogChess\\FrogChess.Server\\wwwroot\\froglogic.js",
+              "DocumentMoniker": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Server\\wwwroot\\froglogic.js",
               "RelativeDocumentMoniker": "FrogChess.Server\\wwwroot\\froglogic.js",
-              "ToolTip": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\SP-Project\\FrogChess\\FrogChess.Server\\wwwroot\\froglogic.js",
+              "ToolTip": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Server\\wwwroot\\froglogic.js",
               "RelativeToolTip": "FrogChess.Server\\wwwroot\\froglogic.js",
-              "ViewState": "AgIAAHMBAAAAAAAAAAAWwIsBAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAN0AAAAAAAAAAAAUwPEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2026-06-28T22:16:25.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
+              "Title": "additional-methods.min.js",
+              "DocumentMoniker": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Server\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "RelativeDocumentMoniker": "FrogChess.Server\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "ToolTip": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Server\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "RelativeToolTip": "FrogChess.Server\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAACsPQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-06-28T22:16:22.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Server\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "FrogChess.Server\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Server\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "FrogChess.Server\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AgIAAHQEAAAAAAAAAAAjwI0EAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-06-28T22:16:16.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\SP-Project\\FrogChess\\FrogChess.Server\\wwwroot\\index.html",
+              "DocumentMoniker": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Server\\wwwroot\\index.html",
               "RelativeDocumentMoniker": "FrogChess.Server\\wwwroot\\index.html",
-              "ToolTip": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\SP-Project\\FrogChess\\FrogChess.Server\\wwwroot\\index.html",
+              "ToolTip": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Server\\wwwroot\\index.html",
               "RelativeToolTip": "FrogChess.Server\\wwwroot\\index.html",
-              "ViewState": "AgIAAM0AAAAAAAAAAAAswPEAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAM0AAAAAAAAAAAAlwOYAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-06-28T22:08:26.752Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-06-28T22:08:26.752Z"
             }
           ]
         }

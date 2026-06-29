@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X3D3kFQi468=",
+  "dgSpecHash": "WmVLEVLOh+M=",
   "success": true,
-  "projectFilePath": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\SP-Project\\frogchess\\FrogChess.Server\\FrogChess.Server.csproj",
+  "projectFilePath": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Server\\FrogChess.Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\APETROSIA_PC\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\APETROSIA_PC\\.nuget\\packages\\moq\\4.20.72\\moq.4.20.72.nupkg.sha512",

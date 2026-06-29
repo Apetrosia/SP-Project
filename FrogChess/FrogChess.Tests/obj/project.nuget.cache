@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oyHi0xZDbBw=",
+  "dgSpecHash": "CDDDq4kz5JY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\SP-Project\\frogchess\\FrogChess.Tests\\FrogChess.Tests.csproj",
+  "projectFilePath": "C:\\Users\\APETROSIA_PC\\Desktop\\progr\\SP\\FrogChess\\FrogChess.Tests\\FrogChess.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\APETROSIA_PC\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\APETROSIA_PC\\.nuget\\packages\\coverlet.collector\\6.0.4\\coverlet.collector.6.0.4.nupkg.sha512",
